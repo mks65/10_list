@@ -10,3 +10,6 @@
 [submodule "luRan"]
 	path = luRan
 	url = https://github.com/RandyLu0/Work10
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work10_list.git
