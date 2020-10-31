@@ -7,3 +7,6 @@
 [submodule "zhouKel"]
 	path = zhouKel
 	url = https://github.com/KellyZhou223/10list.git
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work10
