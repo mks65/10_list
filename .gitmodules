@@ -13,3 +13,6 @@
 [submodule "yeCul"]
 	path = yeCul
 	url = https://github.com/CullenLYe/work10_list.git
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/10_list.git
