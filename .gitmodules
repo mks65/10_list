@@ -16,3 +16,6 @@
 [submodule "chenJac"]
 	path = chenJac
 	url = https://github.com/jchen2003/10_list.git
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/10_list.git
