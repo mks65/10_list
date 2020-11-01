@@ -19,3 +19,6 @@
 [submodule "yeGen"]
 	path = yeGen
 	url = https://github.com/Gene1212/10_list.git
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/10_list
