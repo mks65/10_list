@@ -22,3 +22,6 @@
 [submodule "hamzahMoh"]
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/10_list
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/10_work.git
