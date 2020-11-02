@@ -40,3 +40,6 @@
 [submodule "hirotaEis"]
 	path = hirotaEis
 	url = https://github.com/ei5uke/systems_10_list.git
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/10_list_ZhangAle
