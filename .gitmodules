@@ -31,3 +31,6 @@
 [submodule "siuVic"]
 	path = siuVic
 	url = https://github.com/vs2961/10_list_vs.git
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_enlist.git
