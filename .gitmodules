@@ -25,3 +25,6 @@
 [submodule "waldAle"]
 	path = waldAle
 	url = https://github.com/SashaWald/10_work.git
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_10_list.git
