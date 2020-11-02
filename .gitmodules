@@ -28,3 +28,6 @@
 [submodule "huLuc"]
 	path = huLuc
 	url = https://github.com/lhu10/systems_10_list.git
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/10_list_vs.git
