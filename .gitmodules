@@ -55,3 +55,6 @@
 [submodule "leeLuc"]
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/10_list
+[submodule "vostrikovVla"]
+	path = vostrikovVla
+	url = https://github.com/villinoid/10_systems.git
