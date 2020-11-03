@@ -70,3 +70,7 @@
 	path = chenJac
 	url = https://github.com/jchen2003/10_list.git
 	branch = main
+[submodule "liSun"]
+	path = liSun
+	url = https://github.com/sunnyli13/Work10.git
+	branch = main
