@@ -64,3 +64,6 @@
 [submodule "maoMad"]
 	path = maoMad
 	url = https://github.com/madelynxmao/10_list.git
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-10_list.git
