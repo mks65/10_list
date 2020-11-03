@@ -54,3 +54,7 @@
 	path = siuVic
 	url = https://github.com/vs2961/10_list_vs.git
 	branch = main
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_10.git
+	branch = main
