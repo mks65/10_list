@@ -62,3 +62,7 @@
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-10_list.git
 	branch = main
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-10.git
+	branch = master
