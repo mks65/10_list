@@ -6,3 +6,7 @@
 	path = shenkerEth
 	url = https://github.com/ethan-shenker/10_list_systems.git
 	branch = main
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/10_list
+	branch = main
