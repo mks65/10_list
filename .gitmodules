@@ -42,3 +42,7 @@
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/10_list_mks.git
 	branch = main
+[submodule "nathMic"]
+	path = nathMic
+	url = https://github.com/Michael-Nath/mnath_enlist.git
+	branch = main
