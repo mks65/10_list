@@ -46,3 +46,6 @@
 [submodule "siniscalcoFra"]
 	path = siniscalcoFra
 	url = https://github.com/NopeSiniscalco/10_list_mks.git
+[submodule "linLei"]
+	path = linLei
+	url = https://github.com/llin11/10_list.git
