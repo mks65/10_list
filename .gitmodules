@@ -82,3 +82,7 @@
 	path = yeGen
 	url = https://github.com/Gene1212/10_list.git
 	branch = main
+[submodule "zhaoGav"]
+	path = zhaoGav
+	url = https://github.com/gzhao10/hw10.git
+	branch = main
