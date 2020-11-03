@@ -58,3 +58,7 @@
 	path = misquittaKri
 	url = https://github.com/Kristoff1318/Work_10.git
 	branch = main
+[submodule "prasadAmi"]
+	path = prasadAmi
+	url = https://github.com/AmitPr/mks65c-10_list.git
+	branch = main
