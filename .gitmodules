@@ -94,3 +94,7 @@
 	path = linLei
 	url = https://github.com/mks65/10_list.git
 	branch = main
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw10_list
+	branch = master
