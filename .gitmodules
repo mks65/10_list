@@ -14,3 +14,7 @@
 	path = jiangVin
 	url = https://github.com/vjiang10/10_list_vj.git
 	branch = main
+[submodule "yeCul"]
+	path = yeCul
+	url = https://github.com/CullenLYe/work10_list.git
+	branch = main
