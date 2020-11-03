@@ -78,3 +78,7 @@
 	path = sahaAbh
 	url = https://github.com/AbhijeetSaha2142/10_list.git
 	branch = main
+[submodule "yeGen"]
+	path = yeGen
+	url = https://github.com/Gene1212/10_list.git
+	branch = main
