@@ -34,3 +34,11 @@
 	path = hernandezCar
 	url = https://github.com/KarlWithK/10_list_mks.git
 	branch = main
+[submodule "10_list_mks"]
+	path = 10_list_mks
+	url = https://github.com/NopeSiniscalco/10_list_mks.git
+	branch = main
+[submodule "siniscalcoFra"]
+	path = siniscalcoFra
+	url = https://github.com/NopeSiniscalco/10_list_mks.git
+	branch = main
