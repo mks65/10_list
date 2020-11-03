@@ -10,3 +10,7 @@
 	path = leeLuc
 	url = https://github.com/Lucas-Lee11/10_list
 	branch = main
+[submodule "jiangVin"]
+	path = jiangVin
+	url = https://github.com/vjiang10/10_list_vj.git
+	branch = main
