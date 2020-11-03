@@ -22,3 +22,7 @@
 	path = maoMad
 	url = https://github.com/madelynxmao/10_list.git
 	branch = main
+[submodule "zhangJin"]
+	path = zhangJin
+	url = https://github.com/Jinzxc/10_list_J.git
+	branch = main
