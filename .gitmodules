@@ -49,6 +49,3 @@
 [submodule "linLei"]
 	path = linLei
 	url = https://github.com/llin11/10_list.git
-[submodule "added sunny submodule"]
-	path = added sunny submodule
-	url = https://github.com/sunnyli13/Work10.git
