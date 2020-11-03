@@ -52,3 +52,6 @@
 [submodule "liSun"]
 	path = liSun
 	url = https://github.com/sunnyli13/Work10.git
+[submodule "leeLuc"]
+	path = leeLuc
+	url = https://github.com/Lucas-Lee11/10_list
