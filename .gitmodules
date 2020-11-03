@@ -2,3 +2,7 @@
 	path = zhouKel
 	url = https://github.com/KellyZhou223/10list.git
 	branch = master
+[submodule "shenkerEth"]
+	path = shenkerEth
+	url = https://github.com/ethan-shenker/10_list_systems.git
+	branch = main
