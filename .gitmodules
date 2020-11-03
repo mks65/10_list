@@ -18,3 +18,7 @@
 	path = yeCul
 	url = https://github.com/CullenLYe/work10_list.git
 	branch = main
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/10_list.git
+	branch = main
