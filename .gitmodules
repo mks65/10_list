@@ -46,3 +46,7 @@
 	path = nathMic
 	url = https://github.com/Michael-Nath/mnath_enlist.git
 	branch = main
+[submodule "ganHao"]
+	path = ganHao
+	url = https://github.com/haotianGan/10_enlist
+	branch = main
