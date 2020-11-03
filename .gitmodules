@@ -61,3 +61,6 @@
 [submodule "zhaoGav"]
 	path = zhaoGav
 	url = https://github.com/gzhao10/hw10.git
+[submodule "maoMad"]
+	path = maoMad
+	url = https://github.com/madelynxmao/10_list.git
