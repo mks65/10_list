@@ -67,3 +67,6 @@
 [submodule "prasadAmi"]
 	path = prasadAmi
 	url = https://github.com/AmitPr/mks65c-10_list.git
+[submodule "huMic"]
+	path = huMic
+	url = https://github.com/GuessHuIAm/hw10_list
