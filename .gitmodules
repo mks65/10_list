@@ -94,3 +94,6 @@
 [submodule "liuAli"]
 	path = liuAli
 	url = https://github.com/aliu889/10_List_.git
+[submodule "misquittaKri"]
+	path = misquittaKri
+	url = https://github.com/Kristoff1318/Work_10.git
