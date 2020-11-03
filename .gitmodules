@@ -50,3 +50,7 @@
 	path = ganHao
 	url = https://github.com/haotianGan/10_enlist
 	branch = main
+[submodule "siuVic"]
+	path = siuVic
+	url = https://github.com/vs2961/10_list_vs.git
+	branch = main
