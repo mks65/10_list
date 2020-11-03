@@ -30,3 +30,7 @@
 	path = raoIva
 	url = https://github.com/irao12/systems_10_list
 	branch = master
+[submodule "hernandezCar"]
+	path = hernandezCar
+	url = https://github.com/KarlWithK/10_list_mks.git
+	branch = main
