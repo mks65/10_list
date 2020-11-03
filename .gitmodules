@@ -73,3 +73,6 @@
 [submodule "zhangJin"]
 	path = zhangJin
 	url = https://github.com/Jinzxc/10_list_J.git
+[submodule "hathawayMay"]
+	path = hathawayMay
+	url = https://github.com/mayhathaway/systems-10.git
