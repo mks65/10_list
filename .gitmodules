@@ -66,3 +66,7 @@
 	path = hathawayMay
 	url = https://github.com/mayhathaway/systems-10.git
 	branch = master
+[submodule "chenJac"]
+	path = chenJac
+	url = https://github.com/jchen2003/10_list.git
+	branch = main
