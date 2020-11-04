@@ -102,3 +102,7 @@
 	path = huLuc
 	url = https://github.com/lhu10/systems_10_list.git
 	branch = main
+[submodule "waldAle"]
+	path = waldAle
+	url = https://github.com/SashaWald/10_work.git
+	branch = main
