@@ -114,3 +114,7 @@
 	path = leeSte
 	url = https://github.com/kevidgel/10_list_kevidgel
 	branch = main
+[submodule "ku-benjetJer"]
+	path = ku-benjetJer
+	url = https://github.com/jku20/mk65_10_list.git
+	branch = main
