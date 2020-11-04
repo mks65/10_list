@@ -106,3 +106,7 @@
 	path = waldAle
 	url = https://github.com/SashaWald/10_work.git
 	branch = main
+[submodule "luRan"]
+	path = luRan
+	url = https://github.com/RandyLu0/Work10
+	branch = main
