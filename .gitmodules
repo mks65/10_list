@@ -98,3 +98,7 @@
 	path = huMic
 	url = https://github.com/GuessHuIAm/hw10_list
 	branch = master
+[submodule "huLuc"]
+	path = huLuc
+	url = https://github.com/lhu10/systems_10_list.git
+	branch = main
