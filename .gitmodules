@@ -144,3 +144,7 @@
 	path = vostrikovVla
 	url = https://github.com/villinoid/10_systems
 	branch = main
+[submodule "hamzahMoh"]
+	path = hamzahMoh
+	url = https://github.com/ForestDweller014/10_list
+	branch = main
