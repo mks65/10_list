@@ -137,3 +137,6 @@
 	path = hirotaEis
 	url = https://github.com/ei5uke/systems_10_list.git
 	branch = main
+[submodule "zhangAle"]
+	path = zhangAle
+	url = https://github.com/Kappachino-Latte/10_list_ZhangAle
