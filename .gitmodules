@@ -130,3 +130,7 @@
 	path = chanSer
 	url = https://github.com/schan11/list.git
 	branch = master
+[submodule "hirotaEis"]
+	path = hirotaEis
+	url = https://github.com/ei5uke/systems_10_list.git
+	branch = main
