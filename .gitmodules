@@ -140,6 +140,7 @@
 [submodule "zhangAle"]
 	path = zhangAle
 	url = https://github.com/Kappachino-Latte/10_list_ZhangAle
+	branch = master
 [submodule "vostrikovVla"]
 	path = vostrikovVla
 	url = https://github.com/villinoid/10_systems
