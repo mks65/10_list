@@ -92,7 +92,7 @@
 	branch = main
 [submodule "linLei"]
 	path = linLei
-	url = https://github.com/mks65/10_list.git
+	url = https://github.com/llin11/10_list.git
 	branch = main
 [submodule "huMic"]
 	path = huMic
