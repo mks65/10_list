@@ -146,3 +146,7 @@
 	path = hamzahMoh
 	url = https://github.com/ForestDweller014/10_list
 	branch = main
+[submodule "ahmedTah"]
+	path = ahmedTah
+	url = https://github.com/TahsinAhmed13/10_list.git
+	branch = main
